@@ -1,0 +1,44 @@
+.header__nav_bar {
+  margin-top: 75px;
+}
+
+.header__nav_bar__link {
+  color: #302006;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 25px;
+  text-decoration: none;
+}
+
+.header__logo {
+  border-bottom: 10px solid;
+  border-image: url("/images/border.gif")
+    10 repeat round;
+  border-top: 10px solid;
+  margin: 25px 0 25px 0;
+  padding: 25px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .header__nav_bar__link {
+    font-size: 14px;
+  }
+
+  .header__logo {
+    border-bottom: 8px solid;
+    border-top: 8px solid;
+  }
+
+  .header__logo__image {
+    height: 40px;
+  }
+}
+
+/* IE10+ only */
+@media all and (max-width: 400px) and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .header__nav_bar__link {
+    font-size: 12px;
+    margin-right: 10px;
+  }
+}

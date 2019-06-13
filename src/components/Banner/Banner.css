@@ -1,0 +1,48 @@
+.banner {
+  background: url("/images/Banner-bg.jpg")
+    no-repeat center;
+  background-size: cover;
+  height: 500px;
+  width: 100%;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner__inner {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: calc(100% - 40px);
+  width: calc(100% - 40px);
+  justify-content: center;
+  border: 5px solid white;
+  z-index: 10;
+}
+
+@media only screen and (max-width: 600px) {
+  .banner {
+    height: 300px;
+  }
+
+  .banner__inner {
+    height: calc(100% - 20px);
+    width: calc(100% - 20px);
+  }
+
+  .banner__text {
+    max-width: 230px;
+  }
+}
+
+/* IE10+ only */
+@media all and (max-width: 400px) and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .banner {
+    height: 200px;
+  }
+
+  .banner__text {
+    max-width: 145px;
+  }
+}

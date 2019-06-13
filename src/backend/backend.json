@@ -1,0 +1,42 @@
+{
+  "content": {
+    "id": "1",
+    "headerLogo": {
+      "logo": "https://firebasestorage.googleapis.com/v0/b/test-4-46213.appspot.com/o/Logo.png?alt=media&token=4997fa90-848e-4770-9793-efb786863ce6",
+      "border": "https://firebasestorage.googleapis.com/v0/b/test-4-46213.appspot.com/o/border.gif?alt=media&token=78225366-cf12-486f-a3fc-8e2594ab417b"
+    },
+    "banner": {
+      "background": "https://firebasestorage.googleapis.com/v0/b/test-4-46213.appspot.com/o/Banner-bg.jpg?alt=media&token=40e63a35-bf8a-4d0b-b188-780206ebda7c",
+      "innerImage": "https://firebasestorage.googleapis.com/v0/b/test-4-46213.appspot.com/o/Banner-text_14.png?alt=media&token=19b6fc58-1ce8-4e73-8853-d965058b2966"
+    },
+    "textBlocks": [
+      { 
+        "id": "gqwgçlonhb41",
+        "title": "OUR LATEST WORK",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis sem inpurus facilisis adipiscing atvitae sapien.Maecenas eget metus turpis. Integer ac molestie mauris. Aenean id libero eget ante dignissim faucibus.Morbi sit amet nunc et ante feugiat blandit id aliquam risus. Nulla mattis auctor mi sit amet interdum. Namconsequat,ipsum non tincidunt tincidunt, massa mi tincidunt augue, in elementum lectus sem in libero.Morbi feugiat est dui, quis scelerisque ipsum dictum quis. Fusce adipiscing est sodales aliquet vulputate.Etiam egetrisus at purus fermentum mattis vitae eu sem. Maecenas tincidunt sapien in tortor adipiscing lacinia. Sedvelit odio,pulvinar sagittis diam id, feugiat sodales lacus. Quisque magna nisl, aliquet id laoreet ut, placerat etfelis.Suspendisse aliquet ullamcorper purus, luctus faucibus velit feugiat sed. Aenean interdum, elit ut dictumconvallis,dolor arcu pulvinar neque, et congue elit nisl quis tellus. Aliquam auctor libero nec purus facilisis, sitametfermentum metus lacinia."
+      },
+      { 
+        "id": "liugloiug154",
+        "title": "ABOUT US",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis sem inpurus facilisis adipiscing atvitae sapien.Maecenas eget metus turpis. Integer ac molestie mauris. Aenean id libero eget ante dignissim faucibus.Morbi sit amet nunc et ante feugiat blandit id aliquam risus. Nulla mattis auctor mi sit amet interdum. Namconsequat,ipsum non tincidunt tincidunt, massa mi tincidunt augue, in elementum lectus sem in libero.Morbi feugiat est dui, quis scelerisque ipsum dictum quis. Fusce adipiscing est sodales aliquet vulputate.Etiam egetrisus at purus fermentum mattis vitae eu sem. Maecenas tincidunt sapien in tortor adipiscing lacinia. Sedvelit odio,pulvinar sagittis diam id, feugiat sodales lacus. Quisque magna nisl, aliquet id laoreet ut, placerat etfelis.Suspendisse aliquet ullamcorper purus, luctus faucibus velit feugiat sed. Aenean interdum, elit ut dictumconvallis,dolor arcu pulvinar neque, et congue elit nisl quis tellus. Aliquam auctor libero nec purus facilisis, sitametfermentum metus lacinia."
+      }
+    ],
+    "thumbnails": [
+      {
+       "id": "iuarghiaf21of21h",
+        "src": "https://firebasestorage.googleapis.com/v0/b/test-4-46213.appspot.com/o/Thumb_1.jpg?alt=media&token=186cc6ea-dc6f-473a-aa91-c46b6484d14a",
+        "alt": "thumbnail one" 
+      },
+      {
+        "id": "421li42gufafa",
+        "src": "https://firebasestorage.googleapis.com/v0/b/test-4-46213.appspot.com/o/Thumb_2.jpg?alt=media&token=d956f447-bb90-4b1c-bc0b-abe2f341642b",
+        "alt": "thumbnail two"
+      },
+      {
+        "id": "faafw1f21f122f",
+        "src": "https://firebasestorage.googleapis.com/v0/b/test-4-46213.appspot.com/o/Thumb_3.jpg?alt=media&token=e75b554c-86dc-4b34-a383-fa722344f735",
+        "alt": "thumbnail three"
+      }
+    ]
+  }
+}
