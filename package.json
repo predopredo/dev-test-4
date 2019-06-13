@@ -17,7 +17,6 @@
     "json-serve": "json-server --watch src/backend/backend.json --port 3001",
     "json-start": "concurrently \"yarn json-serve\" \"yarn start\"",
     "build": "react-scripts build",
-    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
